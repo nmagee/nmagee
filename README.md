@@ -10,6 +10,12 @@ Here are some courses I have taught or will be teaching:
 - DS3022 Systems II - Advanced Data Systems (new, BSDS major)
 - CS4740 Cloud Computing
 
+Things that interest me lately:
+
+- Apache Pulsar
+- Apache Airflow
+- `dotenvx`
+
 More information:
 
 - [Google Scholar](https://scholar.google.com/citations?user=2qcTM38AAAAJ&hl=en)
