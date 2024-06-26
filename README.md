@@ -14,6 +14,7 @@ Things that interest me lately:
 
 - [Apache Pulsar](https://pulsar.apache.org/)
 - [Apache Airflow](https://airflow.apache.org/)
+- [Flow Architectures](https://learning.oreilly.com/library/view/flow-architectures/9781492075882/)
 - [`dotenvx`](https://github.com/dotenvx/dotenvx)
 
 More information:
