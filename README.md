@@ -13,7 +13,7 @@ Here are some courses I have taught or will be teaching:
 Things that interest me lately:
 
 - [Apache Pulsar](https://pulsar.apache.org/)
-- [Apache Airflow](https://airflow.apache.org/)
+- [Apache Airflow](https://airflow.apache.org/) - particularly automating DAGs on events, file changes, messages, API hooks, etc.
 - [Flow Architectures](https://learning.oreilly.com/library/view/flow-architectures/9781492075882/)
 - [`dotenvx`](https://github.com/dotenvx/dotenvx)
 
