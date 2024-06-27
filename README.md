@@ -16,7 +16,7 @@ Things that interest me lately:
 - [Apache Airflow](https://airflow.apache.org/) - particularly automating DAGs on events, file changes, messages, API hooks, etc.
 - [Flow Architectures](https://learning.oreilly.com/library/view/flow-architectures/9781492075882/)
 - [Service Mesh Design](https://developer.hashicorp.com/consul/docs/concepts/service-mesh)
-- [`dotenvx`](https://github.com/dotenvx/dotenvx) - encrypted secrets that are more portable than `kubeseal` or Vault.
+- [`dotenvx`](https://github.com/dotenvx/dotenvx) - language-agnostic encrypted secrets that are more portable than `kubeseal` or Vault.
 
 More information:
 
