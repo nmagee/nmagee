@@ -2,7 +2,7 @@
 
 I teach systems at the University of Virginia's [School of Data Science](https://datascience.virginia.edu/). This means tools, platforms and infrastructure — containers, cloud, Kubernetes, HPC, GPUs — as well as a variety of databases and managed services. My work centers on designing and building systems in support of computational research, focusing heavily on containers, CI/CD, and automation/orchestration for bioinformatic, genomic, and other research workflows.
 
-Here are some courses I have taught or will be teaching:
+Here are some courses I have taught or am designing:
 
 - **DS1002** Programming for Data Science
 - **DS2002** Data Science Systems
