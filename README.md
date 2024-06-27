@@ -4,12 +4,12 @@ I teach systems at the University of Virginia's [School of Data Science](https:/
 
 Here are some courses I have taught or am designing:
 
-- **DS1002** Programming for Data Science
-- **DS2002** Data Science Systems
-- **DS2022** Systems I - Introduction to Computing (new, BSDS major)
-- **DS3022** Systems II - Advanced Data Systems (new, BSDS major)
-- **DS4523** Advanced Topics in Systems
-- **CS4740** Cloud Computing
+- **DS1002** Programming for Data Science (DS minors)
+- **DS2002** Data Science Systems (DS minors)
+- **DS2022** Systems I - Introduction to Computing (new, BSDS majors)
+- **DS3022** Systems II - Advanced Data Systems (new, BSDS majors)
+- **DS4523** Advanced Topics in Systems (new, BSDS majors)
+- **CS4740** Cloud Computing (CS majors)
 
 Things that interest me lately:
 
