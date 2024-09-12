@@ -9,6 +9,7 @@ Here are some courses I have taught or am designing:
 - **DS2022** Systems I - Introduction to Computing (new, BSDS majors)
 - **DS3022** Systems II - Data Engineering (new, BSDS majors)
 - **DS4523** Advanced Topics in Systems (new, BSDS majors)
+- **DSXXXX** TBD
 - **CS4740** Cloud Computing (CS majors)
 
 Things that interest me lately:
@@ -18,6 +19,7 @@ Things that interest me lately:
 - Event-based & [Flow Architectures](https://learning.oreilly.com/library/view/flow-architectures/9781492075882/)
 - [Service Mesh Design](https://developer.hashicorp.com/consul/docs/concepts/service-mesh)
 - [`dotenvx`](https://github.com/dotenvx/dotenvx) - language-agnostic encrypted secrets that are more portable than `kubeseal` or Vault.
+- Instagram Engineering
 
 More information:
 
