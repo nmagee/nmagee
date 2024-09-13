@@ -19,7 +19,6 @@ Things that interest me lately:
 - Event-based & [Flow Architectures](https://learning.oreilly.com/library/view/flow-architectures/9781492075882/)
 - [Service Mesh Design](https://developer.hashicorp.com/consul/docs/concepts/service-mesh)
 - [`dotenvx`](https://github.com/dotenvx/dotenvx) - language-agnostic encrypted secrets that are more portable than `kubeseal` or Vault.
-- Instagram Engineering
 
 More information:
 
@@ -27,5 +26,3 @@ More information:
 - [Google Scholar](https://scholar.google.com/citations?user=2qcTM38AAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0001-6101-5079)
 - [Website](https://nmagee.github.io/)
-
-- - -
