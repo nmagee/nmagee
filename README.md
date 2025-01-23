@@ -19,6 +19,7 @@ Things that interest me lately:
 - Event-based & [Flow Architectures](https://learning.oreilly.com/library/view/flow-architectures/9781492075882/)
 - [Service Mesh Design](https://developer.hashicorp.com/consul/docs/concepts/service-mesh)
 - [`dotenvx`](https://github.com/dotenvx/dotenvx) - language-agnostic encrypted secrets that are more portable than `kubeseal` or Vault.
+- [Cursor IDE](https://www.cursor.com/) - fully AI-enabled development tools, for both the classroom and software development.
 
 More information:
 
