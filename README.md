@@ -9,7 +9,6 @@ Here are some courses I have taught or am designing:
 - **DS2022** Systems I - Introduction to Computing (new, BSDS majors)
 - **DS3022** Systems II - Data Engineering (new, BSDS majors)
 - **DS4523** Advanced Topics in Systems (new, BSDS majors)
-- **DSXXXX** TBD
 - **CS4740** Cloud Computing (CS majors)
 
 Things that interest me lately:
@@ -21,7 +20,7 @@ Things that interest me lately:
 - [`dotenvx`](https://github.com/dotenvx/dotenvx) - language-agnostic encrypted secrets that are more portable than `kubeseal` or Vault.
 - [Cursor IDE](https://www.cursor.com/) - fully AI-enabled development tools, for both the classroom and software development.
 
-More information:
+More information about me:
 
 - [Profile](https://datascience.virginia.edu/people/neal-magee)
 - [Google Scholar](https://scholar.google.com/citations?user=2qcTM38AAAAJ&hl=en)
