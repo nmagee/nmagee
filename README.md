@@ -13,7 +13,7 @@ Here are some courses I have taught or am designing:
 
 Things that interest me lately:
 
-- [Rust](https://github.com/UVADS/learn-rust) - a secure and performant language for systems.
+- [Rust](https://github.com/UVADS/learn-rust) - a secure and performant compiled language for systems.
 - [Apache Pulsar](https://pulsar.apache.org/) - asynchronous message queuing for loose coupling across systems.
 - [Apache Airflow](https://airflow.apache.org/) - particularly automating DAGs on events, file changes, messages, API hooks, etc.
 - Event-based & [Flow Architectures](https://learning.oreilly.com/library/view/flow-architectures/9781492075882/)
