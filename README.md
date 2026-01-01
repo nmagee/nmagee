@@ -13,6 +13,7 @@ Here are some courses I have taught or am designing:
 
 Things that interest me lately:
 
+- [Apache Arrow Ecosystem](https://arrow.apache.org/) - universal columnar format and toolbox for fast data interchange and in-memory analytics. Think: DuckDB, Polars, etc.
 - [Rust](https://github.com/UVADS/learn-rust) - a secure and performant compiled language for systems.
 - [Apache Pulsar](https://pulsar.apache.org/) - asynchronous message queuing for loose coupling across systems.
 - [Apache Airflow](https://airflow.apache.org/) - particularly automating DAGs on events, file changes, messages, API hooks, etc.
