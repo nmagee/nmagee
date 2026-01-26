@@ -8,7 +8,7 @@ Here are some courses I have taught or am designing:
 - **DS2002** Data Science Systems (DS minors)
 - **DS2022** Systems I - Introduction to Computing (new, BSDS majors)
 - **DS3022** Systems II - Data Engineering (new, BSDS majors)
-- **DS5220** Advanced Cloud Computing (BSDS/MSDS)
+- **DS5220** Advanced Cloud Computing (new, BSDS/MSDS)
 - **CS4740** Cloud Computing (CS majors)
 
 Things that interest me lately:
